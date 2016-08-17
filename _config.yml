@@ -1,0 +1,28 @@
+name: BMLTest
+favicon: null
+layout_spectrum: 0.6584466402418911
+typography_spectrum: 0.7598448803182691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.13094110903330147
+  lightness: 0.9791619377210736
+  saturation: 0.22761398181319237
+  rhythmicContrast: 0.8991507263854146
+purpose: []
